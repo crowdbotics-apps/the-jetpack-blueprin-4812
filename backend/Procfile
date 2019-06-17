@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT the_jetpack_blueprin_4812.wsgi:application
